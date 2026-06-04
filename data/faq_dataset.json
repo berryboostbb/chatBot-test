@@ -1,0 +1,154 @@
+[
+  {
+    "intent": "treatment_cost",
+    "question": "How much does knee replacement surgery cost?",
+    "answer": "Knee replacement surgery costs between $4000 and $7000 depending on the hospital and surgeon."
+  },
+  {
+    "intent": "treatment_cost",
+    "question": "What is the price of knee replacement?",
+    "answer": "The price of knee replacement surgery ranges from $4000 to $7000."
+  },
+  {
+    "intent": "treatment_cost",
+    "question": "How much does kidney transplant cost?",
+    "answer": "Kidney transplant surgery usually costs between $8000 and $15000 depending on complications."
+  },
+  {
+    "intent": "treatment_cost",
+    "question": "What are the charges for heart bypass surgery?",
+    "answer": "Heart bypass surgery typically costs between $6000 and $12000."
+  },
+  {
+    "intent": "treatment_cost",
+    "question": "How much does IVF treatment cost?",
+    "answer": "IVF treatment usually costs between $3000 and $5000 per cycle."
+  },
+  {
+    "intent": "treatment_cost",
+    "question": "What is the cost of dental implants?",
+    "answer": "Dental implants cost around $1000 to $2500 per implant."
+  },
+  {
+    "intent": "treatment_cost",
+    "question": "How much does MRI scan cost?",
+    "answer": "MRI scans usually cost between $200 and $800 depending on the facility."
+  },
+
+  {
+    "intent": "doctor_information",
+    "question": "Who is the best orthopedic surgeon?",
+    "answer": "Dr. Ahmed Khan is a senior orthopedic surgeon with 15+ years of experience."
+  },
+  {
+    "intent": "doctor_information",
+    "question": "Do you have cardiologists available?",
+    "answer": "Yes, our hospital has highly experienced cardiologists available 24/7."
+  },
+  {
+    "intent": "doctor_information",
+    "question": "Who is the best neurosurgeon?",
+    "answer": "Dr. Sarah Malik specializes in neurosurgery with international training."
+  },
+  {
+    "intent": "doctor_information",
+    "question": "Can I choose my doctor?",
+    "answer": "Yes, patients can select doctors based on availability and specialization."
+  },
+
+  {
+    "intent": "hospital_information",
+    "question": "Do you have ICU facilities?",
+    "answer": "Yes, our hospital has modern ICU and emergency care units."
+  },
+  {
+    "intent": "hospital_information",
+    "question": "Is your hospital internationally accredited?",
+    "answer": "Yes, we are internationally accredited for quality healthcare standards."
+  },
+  {
+    "intent": "hospital_information",
+    "question": "How many beds are in the hospital?",
+    "answer": "Our hospital has more than 300 inpatient beds with advanced facilities."
+  },
+  {
+    "intent": "hospital_information",
+    "question": "Do you provide emergency services?",
+    "answer": "Yes, emergency services are available 24/7."
+  },
+
+  {
+    "intent": "visa_assistance",
+    "question": "Do you provide medical visa assistance?",
+    "answer": "Yes, we assist international patients with full visa documentation support."
+  },
+  {
+    "intent": "visa_assistance",
+    "question": "What documents are required for medical visa?",
+    "answer": "You need a passport, medical reports, invitation letter, and visa application form."
+  },
+  {
+    "intent": "visa_assistance",
+    "question": "How long does medical visa processing take?",
+    "answer": "Medical visa processing takes around 5–10 working days."
+  },
+
+  {
+    "intent": "accommodation",
+    "question": "Do you help with hotel booking?",
+    "answer": "Yes, we assist with hotel and guest house bookings near the hospital."
+  },
+  {
+    "intent": "accommodation",
+    "question": "Are apartments available near the hospital?",
+    "answer": "Yes, serviced apartments are available near the hospital area."
+  },
+  {
+    "intent": "accommodation",
+    "question": "Is airport pickup available?",
+    "answer": "Yes, airport pickup and drop-off services are available."
+  },
+
+  {
+    "intent": "recovery_time",
+    "question": "How long does knee replacement recovery take?",
+    "answer": "Recovery takes around 6 to 12 weeks depending on patient health."
+  },
+  {
+    "intent": "recovery_time",
+    "question": "How long does heart surgery recovery take?",
+    "answer": "Heart surgery recovery takes around 8 to 16 weeks."
+  },
+  {
+    "intent": "recovery_time",
+    "question": "When can I walk after hip surgery?",
+    "answer": "Most patients start walking within 1–2 days after hip surgery."
+  },
+
+  {
+    "intent": "appointment_booking",
+    "question": "How can I book an appointment?",
+    "answer": "You can book appointments online, via phone, or through our support team."
+  },
+  {
+    "intent": "appointment_booking",
+    "question": "Can I book consultation online?",
+    "answer": "Yes, online consultation booking is available for all patients."
+  },
+
+  {
+    "intent": "contact_support",
+    "question": "How can I contact support?",
+    "answer": "You can contact support via phone, email, or WhatsApp 24/7."
+  },
+  {
+    "intent": "contact_support",
+    "question": "Is support available at night?",
+    "answer": "Yes, our support team is available 24/7 including nights."
+  },
+  {
+    "intent": "contact_support",
+    "question": "Do you have emergency contact number?",
+    "answer": "Yes, emergency helpline is available all the time."
+  }
+]

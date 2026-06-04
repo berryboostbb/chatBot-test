@@ -1,0 +1,109 @@
+{
+  "treatment_cost": [
+    "cost",
+    "price",
+    "prices",
+    "fee",
+    "fees",
+    "charges",
+    "expense",
+    "expenses",
+    "bill",
+    "billing",
+    "pricing",
+    "rate",
+    "amount",
+    "how expensive",
+    "how much",
+    "payment"
+  ],
+
+  "doctor_information": [
+    "doctor",
+    "doctors",
+    "surgeon",
+    "surgeons",
+    "specialist",
+    "specialists",
+    "physician",
+    "consultant",
+    "medical expert",
+    "expert",
+    "who is doctor",
+    "which doctor"
+  ],
+
+  "hospital_information": [
+    "hospital",
+    "hospitals",
+    "clinic",
+    "clinics",
+    "medical center",
+    "medical centre",
+    "facility",
+    "health center",
+    "treatment center",
+    "services"
+  ],
+
+  "visa_assistance": [
+    "visa",
+    "medical visa",
+    "documents",
+    "embassy",
+    "passport",
+    "travel visa",
+    "immigration",
+    "paperwork"
+  ],
+
+  "accommodation": [
+    "hotel",
+    "hotels",
+    "stay",
+    "guest house",
+    "guesthouse",
+    "apartment",
+    "lodging",
+    "accommodation",
+    "room",
+    "nearby stay"
+  ],
+
+  "recovery_time": [
+    "recovery",
+    "healing",
+    "heal time",
+    "rehabilitation",
+    "rehab",
+    "how long to recover",
+    "recovery period",
+    "rest time",
+    "healing time"
+  ],
+
+  "appointment_booking": [
+    "appointment",
+    "book",
+    "booking",
+    "schedule",
+    "consultation",
+    "visit doctor",
+    "meet doctor",
+    "slot",
+    "reserve"
+  ],
+
+  "contact_support": [
+    "support",
+    "help",
+    "contact",
+    "helpline",
+    "customer care",
+    "assistance",
+    "emergency",
+    "call center",
+    "whatsapp",
+    "email"
+  ]
+}
