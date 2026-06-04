@@ -1,8 +1,5 @@
 # 🩺 Medical FAQ Chatbot
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Streamlit](https://img.shields.io/badge/streamlit-1.0%2B-red)](https://streamlit.io/)
 
 An intelligent chatbot system that answers medical FAQs using TF-IDF vectorization, fuzzy matching, and intent detection. No training required—just ask!
 
@@ -275,26 +272,6 @@ final_score = (best_score * 0.5) + (fuzzy_score * 0.5)
 
 ---
 
-## 🔮 Roadmap
-
-### Version 1.1
-- [ ] Web UI improvements
-- [ ] Answer feedback system
-- [ ] Analytics dashboard
-
-### Version 2.0
-- [ ] BERT-based semantic understanding
-- [ ] Multi-language support
-- [ ] Real-time medical database integration
-
-### Version 3.0
-- [ ] Conversational AI with memory
-- [ ] Mobile app support
-- [ ] Voice input/output
-- [ ] Medical professional review system
-
----
-
 ## 💡 Use Cases
 
 ✅ **Healthcare Portals** - FAQ chatbot for hospital websites  
@@ -305,43 +282,4 @@ final_score = (best_score * 0.5) + (fuzzy_score * 0.5)
 ---
 
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🤝 Contributing
-
-Contributions welcome! Here's how:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Make** your changes
-4. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-5. **Push** to the branch (`git push origin feature/amazing-feature`)
-6. **Open** a Pull Request
-
-### Areas to Contribute
-- 📚 Add more medical FAQs
-- 🌍 Translate to other languages
-- 🎨 Improve UI/UX
-- 🧪 Write tests
-- 📖 Improve documentation
-- 🐛 Report/fix bugs
-
----
-
-## 🆘 Support & Issues
-
-Have a problem? Here's how to get help:
-
-1. **Check existing issues** - Your problem might already be solved
-2. **Search documentation** - Look for answers in the README
-3. **Create new issue** - If not found, open a new GitHub issue
-4. **Include details** - Error message, Python version, OS, steps to reproduce
-
----
-
-
-*Last Updated: 2024 | Version: 1.0.0 | Status: Active*
